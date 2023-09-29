@@ -9,7 +9,7 @@ Currently, P.h.D student at the University of Virginia and working in [Bilodeau 
 <img align="left" alt="Java" width="100px" style= "padding-rigth:10px;" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true"/>
 
 
-#
+<br> <!-- Agrega un salto de línea -->
 
 ### Stats
 
