@@ -11,5 +11,8 @@ Currently, P.h.D student at the University of Virginia and working in [Bilodeau 
 
 ---
 
+<div style="margin-left: 60px;"> <!-- Ajusta el valor del margen según sea necesario -->
 ### Stats
+</div>
+
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
