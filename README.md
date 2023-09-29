@@ -2,7 +2,8 @@
 
 <!--
 **danielgarzonotero/danielgarzonotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Chemical Engineer from the National University of Colombia - Medellin campus. 
+Currently, P.h.D student at the University of Virginia and working in Bilodeau Group. Interested in applying molecular simulation and deep learning to explore molecules, peptides, and protein properties.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
