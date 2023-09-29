@@ -4,4 +4,4 @@ Chemical Engineer from the National University of Colombia - Medellin campus.
 Currently, P.h.D student at the University of Virginia and working in [Bilodeau Group](https://bilodeau-group.com/). Interested in applying molecular simulation and deep learning to explore molecules, peptides, and protein properties.
 
 ### Languajes and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> Python
+<img align="left" alt="Java" width="30px" style= "padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
