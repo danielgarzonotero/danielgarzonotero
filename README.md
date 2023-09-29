@@ -5,5 +5,5 @@ Currently, P.h.D student at the University of Virginia and working in [Bilodeau 
 
 ### Languajes and Tools
 <img align="left" alt="Java" width="50px" style= "padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
+<img align="left" alt="Java" width="50px" style= "padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
           
