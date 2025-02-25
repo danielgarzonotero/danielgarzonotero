@@ -13,7 +13,7 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 <img align="left" alt="PyTorch Geometric" width="100px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true"/>
 <img align="left" alt="PyTorch" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 <img align="left" alt="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/@rdkit/rdkit@2024.3.5-1.0.0/dist/RDKit_minimal.svg"/>
+<img align="left" alt="RDKit" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/@rdkit/rdkit@2024.3.5-1.0.0/dist/RDKit_minimal.svg"/>
 <br />
 
 #
