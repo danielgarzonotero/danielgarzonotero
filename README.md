@@ -20,7 +20,8 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 
 
 ### Stats
-[![Daniel's Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielgarzonotero&bg_color=0d1117&color=ffffff&line=ff0000&point=ff0000)](https://github.com/danielgarzonotero)
+![Daniel's GitHub Contributions](https://ghchart.rshah.org/danielgarzonotero)
+
 
 
 
