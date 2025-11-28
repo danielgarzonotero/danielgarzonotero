@@ -20,8 +20,7 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 
 
 ### Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgarzonotero&theme=github)
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgarzonotero&theme=github)
 
 
 
