@@ -16,6 +16,7 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 <img align="left" alt="RDKit" width="50px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/2018047?v=4"/>
 <br />
 
+#
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgarzonotero&theme=github_dark)
 
