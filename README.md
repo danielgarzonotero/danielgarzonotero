@@ -21,4 +21,5 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 
 ### Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgarzonotero&show_icons=true&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgarzonotero&show_icons=true&theme=radical)
+
