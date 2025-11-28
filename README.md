@@ -20,6 +20,7 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 
 
 ### Stats
+![Top Langs](https://img.shields.io/github/languages/top/danielgarzonotero)
+![Commits](https://img.shields.io/github/commit-activity/m/danielgarzonotero)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgarzonotero&show_icons=true&theme=radical)
 
