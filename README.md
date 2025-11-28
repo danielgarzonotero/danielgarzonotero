@@ -20,7 +20,8 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 
 
 ### Stats
-![Daniel's GitHub Contributions](https://ghchart.rshah.org/danielgarzonotero)
+![Daniel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielgarzonotero&theme=dark)
+
 
 
 
