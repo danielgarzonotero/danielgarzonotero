@@ -4,6 +4,8 @@ Chemical Engineer from the [National University of Colombia - Medellin campus](h
 Currently, Ph.D. student in the [Chemical Engineering department at the University of Virginia](https://engineering.virginia.edu/departments/chemical-engineering). Working in [Bilodeau Group](https://bilodeau-group.com/) and interested in applying molecular simulation and deep learning to explore molecules, peptides, and protein properties.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-eduardo-garz%C3%B3n-otero-352b29170/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8he29hYAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--0028--5765-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-0028-5765)
 [![Visitar Bilodeau Group](https://img.shields.io/badge/Bilodeau%20Group-Website-brightgreen?style=for-the-badge)](https://bilodeau-group.com/)
 
 #
@@ -17,9 +19,7 @@ Currently, Ph.D. student in the [Chemical Engineering department at the Universi
 <br />
 
 #
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgarzonotero&theme=github_dark&v=1)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielgarzonotero&show_icons=true&theme=github_dark)
 
 
 
